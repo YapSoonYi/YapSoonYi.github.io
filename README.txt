@@ -1,5 +1,5 @@
-Hi everyone, I hope you enjoy my portfolio website.
+Hi everyone,
 
-Above resources for your reference.
+Above are the resources for the portfolio website.
 
 Thanks!
