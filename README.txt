@@ -1,5 +1,3 @@
-Hi everyone,
-
-Above are the resources for the portfolio website.
+Build and deployed my own portfolio website.
 
 Thanks!
